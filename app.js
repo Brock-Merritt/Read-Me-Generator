@@ -3,6 +3,10 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js')
 
+
+
+
+// init functionality test
 console.log('test to be sure its running')
 
 
@@ -52,7 +56,7 @@ const questions = [
         type:"list",
         name:"License",
         message:"What license will you use?",
-        choices:['MIT','idk','idk','idk']
+        choices:['MIT','Apache License 2.0','GNU','BSD 2']
     },{
         type:"Input",
         name:"Github",

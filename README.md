@@ -1,4 +1,4 @@
-# Brock
+# Read-Me Generator
 
 
 
@@ -19,16 +19,16 @@
 
 
 ## Description 
-    MERrit
+    A node.js file that upon command opens a prompt, asking standard questions to be answered to the users specifications, creating a readme.md file upon completion
 
 ## Installation 
     inquirer
 
 ## Usage 
-    LMAOOOOOOOOOOOOO
+    Creating professional read-me.md documents with ease
 
 ## Contributors 
-    NO
+    
 
 ## Input Commands 
     node app.js
@@ -38,5 +38,5 @@
 
 ## Personal Information
     *Please contact at:
-    BORKm
-    LMAO
+    Brock-Merritt
+    brkmer@gmail.com
