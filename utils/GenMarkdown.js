@@ -1,9 +1,23 @@
-const fs = require('fs')
 
 
-const writeReadMe = readMeData =>{
+// function generateMarkdown(){
+//     return `# ${data.title}
+    
+//             ## Description
 
-}
+//             ## Instructions
+
+//             ## Usage
+
+//             ## Contributors
+
+//             ## Input Commands
+
+//             ## License
+
+//             ## Personal Information
+//     `
+// }
 
 
-modules.export = writeReadMe;
+// modules.export = generateMarkdown;
