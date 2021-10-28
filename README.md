@@ -1,42 +1,53 @@
-# Read-Me Generator
+# brock
+
+    ![Github License](https://shields.io/badge/license-undefined-blue.svg);
 
 
 
-## Table of Content
-1.[Description](#Description)
-
-2.[Installation](#Installation)
-
-3.[Usage](#Usage)
-
-4.[Contributors](#Contributors)
-
-5.[Input Commands](#Test)
-
-6.[License](#License)
-
-7.[Personal Info](#Github)
 
 
-## Description 
-    A node.js file that upon command opens a prompt, asking standard questions to be answered to the users specifications, creating a readme.md file upon completion
+    ## Table of Contents
+    * [Description](#Description)
 
-## Installation 
-    inquirer
+    * [Installation](#Installation)
 
-## Usage 
-    Creating professional read-me.md documents with ease
+    * [Usage](#Usage)
+    
+* [License](#license)
 
-## Contributors 
+
+    * [Contributors](#Contributors)
+
+    * [Input Commands](#Test)
+
+    * [License](#License)
+
+    * [Personal Info](#Github)
+
+
+    ## Description 
+        
+
+    ## Installation 
+        inquirer
+
+    ## Usage 
+        
+        ## License
+    This project is license under undefined license.
     
 
-## Input Commands 
-    node app.js
+    ## Contributors 
+        
 
-## License
-    MIT
+    ## Input Commands 
+        node app.js
 
-## Personal Information
-    *Please contact at:
-    Brock-Merritt
-    brkmer@gmail.com
+    ## License
+        MIT
+
+    ## Personal Information
+        *Please contact at:
+        
+        
+    

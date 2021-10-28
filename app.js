@@ -1,7 +1,8 @@
 // const for install variables
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateMarkdown = require('./utils/generateMarkdown.js')
+const generateMarkdown = require('./utils/generateMarkdown.js');
+const path = require('path');
 
 
 
@@ -67,28 +68,23 @@ const questions = [
         name:"Email",
         message:"Please enter your email",
     },
-]
+];
 
 
 
 function writeToFile(fileName,data) {
-    fs.writeFile(fileName,data, function(err){
-        if (err){
-            return console.log(err);
-        } else{
-            return console.log('saved');
-        }
-    });
+    return fs.writeFileSync(path.join(process.cwd(),fileName),data); 
+    
 }
 
 
 function init(){
     inquirer.prompt(questions)
-    .then((data)=>{
-        writeToFile("readme.md", generateMarkdown(data));
-        console.log(data);
-    })
+    .then((inquirerResponses)=>{
+        writeToFile("readme.md", generateMarkdown({ ... inquirerResponses }));
+        console.log('generating...');
+    });
 
-};
+}
 
 init();
