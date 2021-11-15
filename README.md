@@ -1,4 +1,4 @@
-# brock
+# Read Me Gen
 
 ![Github License](https://shields.io/badge/license-undefined-blue.svg);
 
