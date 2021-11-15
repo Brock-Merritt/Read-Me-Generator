@@ -1,17 +1,17 @@
 # brock
 
-    ![Github License](https://shields.io/badge/license-undefined-blue.svg);
+![Github License](https://shields.io/badge/license-undefined-blue.svg);
 
 
 
 
 
-    ## Table of Contents
-    * [Description](#Description)
+## Table of Contents
+* [Description](#Description)
 
-    * [Installation](#Installation)
+* [Installation](#Installation)
 
-    * [Usage](#Usage)
+ * [Usage](#Usage)
     
 * [License](#license)
 
