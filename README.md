@@ -13,7 +13,7 @@
 
     * [Usage](#Usage)
     
-* [License](#license)
+    * [License](#license)
 
 
     * [Contributors](#Contributors)
