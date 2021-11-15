@@ -16,38 +16,38 @@
 * [License](#license)
 
 
-    * [Contributors](#Contributors)
+* [Contributors](#Contributors)
 
-    * [Input Commands](#Test)
+* [Input Commands](#Test)
 
-    * [License](#License)
+* [License](#License)
 
-    * [Personal Info](#Github)
+* [Personal Info](#Github)
 
 
-    ## Description 
-        
+## Description 
 
-    ## Installation 
-        inquirer
 
-    ## Usage 
-        
-        ## License
-    This project is license under undefined license.
-    
+## Installation 
+    inquirer
 
-    ## Contributors 
-        
-
-    ## Input Commands 
-        node app.js
+## Usage 
 
     ## License
-        MIT
+This project is license under undefined license.
 
-    ## Personal Information
-        *Please contact at:
-        
+
+## Contributors 
+
+
+## Input Commands 
+    node app.js
+
+## License
+    MIT
+
+## Personal Information
+    *Please contact at:
+
         
     
